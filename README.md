@@ -21,5 +21,5 @@
 []()
 
 
-### Current score on Public Leaderboard in the competition: 0.320
+### Current score on Public Leaderboard in the competition: 0.6  rank 637 
 Team name `EIS-T10`
